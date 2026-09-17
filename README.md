@@ -86,3 +86,11 @@ Task Management API with:
 
 \- Docker Deployment
 
+
+
+\## Learning
+
+
+
+This project is built through daily practice and hands-on projects.
+
